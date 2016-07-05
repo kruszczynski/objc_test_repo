@@ -2,11 +2,153 @@
 
 - (id)init {
   NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
 }
 
 #pragma mark - UIViewController
 
 - (void)viewDidLoad {
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
   NSLog (@"Hello, World!");
 }
 
@@ -14,16 +156,229 @@
 
 - (IBAction)cancel:(id)sender {
   NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
 }
 
 # pragma mark - UITableViewDataSource
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
   NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
 }
 
 # pragma mark - UITableViewDelegate
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
+  NSLog (@"Hello, World!");
+
   NSLog (@"Hello, World!");
 }
